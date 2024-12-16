@@ -1,4 +1,4 @@
-const apiKey = '854180c799350d51acbe1cdd3295b2bd'; // Your API key
+const apiKey = 'Enter your own api key here'; // Your API key
 const resultsContainer = document.getElementById('results');
 const searchBtn = document.getElementById('searchBtn');
 const searchInput = document.getElementById('searchInput');
